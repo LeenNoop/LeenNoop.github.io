@@ -2,10 +2,10 @@
 
 .....
 
-## About our team
+## About our team :star2:
 .....
 
-## Our First Game Risk
+## Our First Game Risk :game_die:
 
 ## Team Panda Blog :stuck_out_tongue_closed_eyes:
 
