@@ -7,7 +7,7 @@
 
 ## Our First Game Risk
 
-## Team Panda Blog :p
+## Team Panda Blog :stuck_out_tongue_closed_eyes:
 
 
 ``` markdown
